@@ -1,0 +1,29 @@
+th {
+    background-color: yellowgreen;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 200%;
+    border: 10px solid orange;
+    padding: 1px; 
+}
+.taco {
+    background-color: aquamarine;
+    font-size: 150%;
+    border: 5px solid green;
+    padding: 1px;
+}
+td {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+a:link{
+color: aqua;
+}
+a:visited{
+    color: green;
+}
+a:active{
+color: brown;
+}
+a:hover{
+    cursor: crosshair;
+}

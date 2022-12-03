@@ -1,0 +1,53 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #8a18e2;
+  font-family: 'Times New Roman', Times, serif, sans-serif;
+}
+
+h1 {
+  margin: 30px;
+  font-size: 2rem;
+  font-weight: 500;
+  color: #ff9100;
+}
+
+h2, h3 {
+  margin: 30px;
+  font-size: 2rem;
+  font-weight: 300;
+  color: #e6ff04;
+}
+
+p {
+  color: #3cc6d0;
+}
+
+img {
+  width: 80%;
+  background-color: #398ee3;
+  border-radius: 30%;
+  mix-blend-mode: hard-light;
+}
+
+
+.myBtn {
+  margin: 30px;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
