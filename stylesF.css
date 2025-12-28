@@ -141,3 +141,42 @@ text-align: center;
     text-align: center;
     background-color: #ffffff;
 }
+
+.section-title {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 40px;
+}
+
+.project-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  padding: 0 10%;
+}
+
+.project-card {
+  background: #f7f7f7;
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+  transition: transform 0.2s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+}
+
+.project-card img {
+  width: 100%;
+  max-width: 250px;
+  margin-bottom: 15px;
+}
+
+.project-card a {
+  display: inline-block;
+  margin-top: 10px;
+  font-weight: bold;
+  color: #5a3fd0;
+  text-decoration: none;
+}
