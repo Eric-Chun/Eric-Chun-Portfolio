@@ -156,7 +156,6 @@ text-align: center;
 }
 
 .project-card {
-  background: #f7f7f7;
   padding: 20px;
   border-radius: 12px;
   text-align: center;
@@ -180,4 +179,5 @@ text-align: center;
   color: #5a3fd0;
   text-decoration: none;
 }
+
 
